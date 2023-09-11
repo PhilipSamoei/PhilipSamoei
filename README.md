@@ -2,25 +2,27 @@
 
 ## About Me
 
-I'm a Full Stack Engineer passionate about Backend Development with Ruby on Rails Django.
-- 🔭 I’m currently working on [Current Projects]
-- 🌱 I’m currently learning [Technologies/Frameworks]
-- 👯 I’m looking to collaborate on [Types of Projects]
-- 💬 Ask me about [Topics You're Knowledgeable About]
-- 📫 How to reach me: [Your Contact Information]
-- ⚡ Fun fact: [Interesting Fun Fact]
+I'm a Full Stack Engineer passionate about Backend Development 
+- 🔭 I’m currently working on Ecommerce app called EazyShoppe
+- 🌱 I’m currently learning  Nodejs and Django
+- 💬 Ask me about [ web development
+- 📫 How to reach me:
+-     email @philipkerich188@gmail.com
+-     phone @ 07686088032
+- ⚡ Fun fact: 
+        Rails is easy with APIs trust me
 
 ## Projects
 
 Here are some of the projects I'm proud of:
 
-- [Project Name](Link to Project Repository or Live Demo) - A brief description of the project.
-- [Another Project](Link) - Description.
+Vibester 
+FoodChapChap
 
 ## Skills
 
-- Programming Languages: JavaScript, Python
-- Frameworks: React.js.Django
+- Programming Languages: JavaScript, Python Ruby
+- Frameworks: React.js.Django rails
 - Tools & Technologies: linux 
 - Databases like MySQL , PostgreSQL
 
@@ -28,8 +30,8 @@ Here are some of the projects I'm proud of:
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](LinkedIn URL)
-- Twitter: [Your Twitter Profile](Twitter URL)
-- Website/Blog: [Your Website/Blog](Website URL)
+- LinkedIn: Philip kerich   ( www.linkedin.com/in/philip-kerich-5a0858273)Url
+- Twitter: [Samoei  (https://twitter.com/Kerich1Philip)
+
 
 Feel free to reach out to me if you'd like to collaborate, have questions, or just want to say hi! 😄
